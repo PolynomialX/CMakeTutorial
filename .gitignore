@@ -32,4 +32,5 @@
 *.app
 
 # Build directories - don't upload artefacts / exes
-Step_1\Exercise_1\Exercise_1\Build
+Step_1\Exercise_1\Exercise_1_Build
+Step_1\Exercise_2\Exercise_2_Build
