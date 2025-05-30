@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Build directories - don't upload artefacts / exes
+Step_1\Exercise_1\Exercise_1\Build
